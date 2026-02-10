@@ -106,7 +106,7 @@ Email me for custom inquiries.
 
 ---
 
-## ⚖️ Copyright & License
+## Copyright & License
 
 **© 2026 Danielle Denton. All Rights Reserved.**
 
