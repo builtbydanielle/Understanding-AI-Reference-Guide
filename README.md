@@ -36,20 +36,6 @@ This bundle contains:
 - Search within the page using Ctrl+F (Cmd+F on Mac)
 - All content expands and collapses for easy navigation
 
-### PDF Version
-
-**Best For:**
-- Printing as a physical reference
-- Reading on e-readers
-- Annotating and highlighting
-- Sharing specific pages
-
-**How to Use:**
-1. Open `ai-quick-reference.pdf` with any PDF reader (Adobe, Preview, etc.)
-2. Use the table of contents to jump to specific sections
-3. Print pages as needed for offline reference
-4. Use PDF annotation tools to add your own notes
-
 ---
 
 ##  What You'll Learn
