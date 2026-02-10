@@ -8,9 +8,8 @@
 This bundle contains:
 
 1. **ai-quick-reference.html** - Interactive web-based guide (recommended)
-2. **ai-quick-reference.pdf** - Printable reference document
-3. **README.md** - This file
-4. **LICENSE.txt** - Legal terms and copyright information
+2. **README.md** - This file
+3. **LICENSE.txt** - Legal terms and copyright information
 
 ---
 
