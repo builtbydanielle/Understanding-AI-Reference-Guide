@@ -152,7 +152,7 @@ I build marketing automation systems and AI tools for businesses. This guide ref
 
 ---
 
-**Thank you for your purchase! I hope this guide helps you navigate the world of AI with confidence.**
+**I hope this guide helps you navigate the world of AI with confidence.**
 
 *Last Updated: February 2026*
 *Version: 1.0*
